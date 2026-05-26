@@ -1,6 +1,6 @@
-# ML_FinalProject
+# Benchmark of regression and feedforward neural network (FNN) models for detecting drug–protein interactions in simulated chemoproteomics data
 
-Benchmark of regression and feedforward neural network (FNN) models for detecting drug–protein interactions in simulated chemoproteomics data. Final project for CS6140 (Machine Learning) at Northeastern University.
+Final project for CS6140 (Machine Learning) at Northeastern University.
 
 ## Overview
 
